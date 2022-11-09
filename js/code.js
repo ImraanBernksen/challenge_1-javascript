@@ -36,8 +36,32 @@
 
 // document.write(`Sum: ${addition()}`);
 
-let addition = ()=>{
-    document.write(8 + 4);
-}
+// let addition = ()=>{
+//     document.write(8 + 4);
+// }
 
-addition();
+// addition();
+
+// Array (use [])
+// let students = [
+//     'Gift', 'Asandile',
+//     'Deno', 'Javier',
+//     'Reece', 'Brogan',
+//     'Meezaan', 'John'
+// ];
+// console.log(students);
+// console.log(students[0]);
+// console.log(students[2]);
+//Last element
+// console.log(students[size-1]);
+//Second last element
+// console.log(students[size-2]);
+
+// Challenge
+// let students = [
+//     'Gift', 'Asandile',
+//     'Deno', 'Javier',
+//     'Sakhe', 'Mkhuseli',
+//     'John', 'Thando', 'Brogan'
+// ];
+// console.log(students[(students.length-1)/2]);
